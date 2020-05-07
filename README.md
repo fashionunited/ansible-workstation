@@ -15,7 +15,7 @@ Install requirements
 
 Run as sudo, we are changing the system.
 
-    sudo ansible-pull -U https://github.com/Joostvanderlaan/ansible-workstation
+    sudo ansible-pull -U https://github.com/fashionunited/ansible-workstation
 
 Test on localhost
 
